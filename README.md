@@ -73,4 +73,9 @@ This project analyzes consumer attention and market segmentation in China’s au
 ---
 
 ## 📘 Notebook Link | Notebook 链接
-📘 Notebook: [Dangchedi Platform.ipynb]([https://github.com/你的用户名/你的仓库名/blob/main/Seoul_Bike_Prediction.ipynb](https://github.com/25422138/Automotive-Market-Segmentation-and-Consumer-Insights-Dangchedi-Platform-/blob/main/Automotive%20Market%20Segmentation%20and%20Consumer%20Insights%20(Dangchedi%20Platform)/Dangchedi%20Platform.ipynb))
+---
+
+## 📘 Project Files | 项目文件
+- Data: `dongchedi_rank_data.csv`
+- Notebook: [Dangchedi Platform.ipynb](https://github.com/25422138/Automotive-Market-Segmentation-and-Consumer-Insights-Dangchedi-Platform-/blob/main/Automotive%20Market%20Segmentation%20and%20Consumer%20Insights%20(Dangchedi%20Platform)/Dangchedi%20Platform.ipynb)
+- Presentation: `Automotive Market Segmentation and Consumer Insights (Dangchedi Platform).pptx`
