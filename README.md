@@ -1,10 +1,10 @@
-# 🚗 Automotive Market Segmentation and Consumer Insights (Dangchedi Platform)  
+# 🚗 Automotive Market Segmentation and Consumer Insights (Dongchedi Platform)  
 
 ---
 
 ## 📌 Project Background
 
-This project analyzes consumer attention and market segmentation in China’s automotive industry using data from the **Dangchedi platform**. By applying clustering and decision tree models, the study aims to break the deadlock of ambiguous segmentation and uncover the drivers behind high-potential vehicle models.  
+This project analyzes consumer attention and market segmentation in China’s automotive industry using data from the **Dongchedi platform**. By applying clustering and decision tree models, the study aims to break the deadlock of ambiguous segmentation and uncover the drivers behind high-potential vehicle models.  
 
 ---
 
@@ -26,7 +26,7 @@ This project analyzes consumer attention and market segmentation in China’s au
 
 ## 📊 Data
 
-- **Source**: Dangchedi web interface `/motor/pc/car/rank_data`  
+- **Source**: Dongchedi web interface `/motor/pc/car/rank_data`  
 - **Dataset**: 743 valid vehicle entries (`dongchedi_rank_data.csv`)  
 - **Features**: Vehicle series, brand, min/max price, user engagement count, score, rank  
 - **Usage**: Cleaning → Clustering → Decision Tree  
