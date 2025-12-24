@@ -82,6 +82,6 @@ This project analyzes consumer attention and market segmentation in China’s au
 
 ## 📘 Project Files
 
-- Data: `dongchedi_rank_data_clean.csv`
-- Notebook: [Dangchedi Platform.ipynb](https://github.com/25422138/Automotive-Market-Segmentation-and-Consumer-Insights-Dangchedi-Platform-/blob/main/Automotive%20Market%20Segmentation%20and%20Consumer%20Insights%20(Dangchedi%20Platform)/Dangchedi%20Platform.ipynb)
+- Data: `dongchedi_rank_data_cleaned.csv`
+- Notebook: [Dangchedi Platform.ipynb](https://github.com/25422138/Automotive-Market-Segmentation-and-Consumer-Insights-Dangchedi-Platform-/blob/main/Dongchedi%20Platform.ipynb)
 - Presentation: `Automotive Market Segmentation and Consumer Insights (Dongchedi Platform).pptx`
